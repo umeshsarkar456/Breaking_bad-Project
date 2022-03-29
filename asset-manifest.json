@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/github.io/Breaking_bad-Projectnpm%20/static/css/main.1e47bd55.css",
-    "main.js": "/github.io/Breaking_bad-Projectnpm%20/static/js/main.fef09711.js",
-    "static/media/spinner.gif": "/github.io/Breaking_bad-Projectnpm%20/static/media/spinner.11d9cde8ebaeadb07ba7.gif",
-    "static/media/bg.jpg": "/github.io/Breaking_bad-Projectnpm%20/static/media/bg.085908ea8f76e1ae1806.jpg",
-    "static/media/logo.png": "/github.io/Breaking_bad-Projectnpm%20/static/media/logo.e6ecab4407f10ecd02bd.png",
-    "index.html": "/github.io/Breaking_bad-Projectnpm%20/index.html",
-    "main.1e47bd55.css.map": "/github.io/Breaking_bad-Projectnpm%20/static/css/main.1e47bd55.css.map",
-    "main.fef09711.js.map": "/github.io/Breaking_bad-Projectnpm%20/static/js/main.fef09711.js.map"
+    "main.css": "/github.io/Breaking_bad-Project/static/css/main.eca52763.css",
+    "main.js": "/github.io/Breaking_bad-Project/static/js/main.1fdcc5c1.js",
+    "static/media/spinner.gif": "/github.io/Breaking_bad-Project/static/media/spinner.11d9cde8ebaeadb07ba7.gif",
+    "static/media/bg.jpg": "/github.io/Breaking_bad-Project/static/media/bg.085908ea8f76e1ae1806.jpg",
+    "static/media/logo.png": "/github.io/Breaking_bad-Project/static/media/logo.e6ecab4407f10ecd02bd.png",
+    "index.html": "/github.io/Breaking_bad-Project/index.html",
+    "main.eca52763.css.map": "/github.io/Breaking_bad-Project/static/css/main.eca52763.css.map",
+    "main.1fdcc5c1.js.map": "/github.io/Breaking_bad-Project/static/js/main.1fdcc5c1.js.map"
   },
   "entrypoints": [
-    "static/css/main.1e47bd55.css",
-    "static/js/main.fef09711.js"
+    "static/css/main.eca52763.css",
+    "static/js/main.1fdcc5c1.js"
   ]
 }
